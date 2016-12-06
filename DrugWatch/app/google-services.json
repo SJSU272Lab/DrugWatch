@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "765518673858",
+    "firebase_url": "https://drugwatch-1fb0d.firebaseio.com",
+    "project_id": "drugwatch-1fb0d",
+    "storage_bucket": "drugwatch-1fb0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765518673858:android:a6efa35b0b760e7c",
+        "android_client_info": {
+          "package_name": "com.knightriders.drugwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765518673858-l71k3b2nnropkcci0bcf7utls321fk9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-cIB75GODXCyoSnsk3ES873OtiOW4Z4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

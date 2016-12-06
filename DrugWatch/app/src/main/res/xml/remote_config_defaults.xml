@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>welcome_text</key>
+        <value></value>
+    </entry>
+    <entry>
+        <key>ndc_text</key>
+        <value>NDC is a 10 or 11 Digit Code printed on the drug label</value>
+    </entry>
+</defaultsMap><!-- END xml_defaults -->
