@@ -1,7 +1,10 @@
-# MedicineWatch
+# DrugWatch
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/SJSU272Lab/Fall16-Team11/blob/master/LICENSE.md)
+[![platform](https://img.shields.io/badge/platform-Android-orange.svg)]()
 
 ## Abstract
-Medicine is rigorously tested for safety and effectiveness before becoming available to the consumer. In the U.S., the FDA makes sure this happens. Once on the market, the FDA, along with the makers of the drug, continue to monitor the medicine for any unforeseen problems. Should an issue develop, or the safety of a medication come into question, a recall may be initiated. We should stop taking the recalled medicine at once. Not everyone is educated about drug recalls in the market. We are proposing a mobile application **_MedicineWatch_** that will scan the medicine bottle and search the FDA database to determine if the scanned bottle is recalled drug or not.
+Medicine is rigorously tested for safety and effectiveness before becoming available to the consumer. In the U.S., the FDA makes sure this happens. Once on the market, the FDA, along with the makers of the drug, continue to monitor the medicine for any unforeseen problems. Should an issue develop, or the safety of a medication come into question, a recall may be initiated. We should stop taking the recalled medicine at once. Not everyone is educated about drug recalls in the market. We are proposing a mobile application **_DrugWatch_** that will scan the medicine bottle and search the FDA database to determine if the scanned bottle is recalled drug or not.
 
 ## Architecture Flow Diagram
 <img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/architecture-flow.png">
@@ -14,6 +17,10 @@ Medicine is rigorously tested for safety and effectiveness before becoming avail
 - As a **_patient_**, I want to scan a drug bottle, so that I can know whether to consume it or not.
 - As a **_doctor_**, I want to scan a drug bottle, so that I can know whether to prescribe it or not.
 - As a **_pharmacist_**, I want to scan a drug bottle, so that I can know whether to sell that drug or not.
+
+## License
+
+DrugWatch is released under the [MIT License](https://github.com/SJSU272Lab/Fall16-Team11/blob/master/LICENSE.md).
 
 ## Team Members
 
