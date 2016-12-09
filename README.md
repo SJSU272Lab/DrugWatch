@@ -19,6 +19,12 @@ Medicine is rigorously tested for safety and effectiveness before becoming avail
 - As a **_doctor_**, I want to scan a drug bottle, so that I can know whether to prescribe it or not.
 - As a **_pharmacist_**, I want to scan a drug bottle, so that I can know whether to sell that drug or not.
 
+## Integrated Developer Tools
+
+<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/analytics.jpeg" width="28%" align="left" />
+<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/admob.jpeg" width="28%" align="left" />
+<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/remote-config.jpeg" width="28%" />
+
 ## License
 
 DrugWatch is released under the [MIT License](https://github.com/SJSU272Lab/Fall16-Team11/blob/master/LICENSE.md).
