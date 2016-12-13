@@ -1,7 +1,9 @@
 package com.knightriders.medicinewatch;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.DefaultItemAnimator;
@@ -160,11 +162,26 @@ public class HistoryActivity extends AppCompatActivity {
             if (pendingList.isEmpty()) {
                 Toast.makeText(HistoryActivity.this, "No history to clear!!", Toast.LENGTH_SHORT).show();
             } else {
-                SQLiteHandler db = new SQLiteHandler(getApplicationContext());
-                db.clearHistory();
-                pendingList.clear();
-                noHistory.setVisibility(View.VISIBLE);
-                mAdapter.notifyDataSetChanged();
+                new AlertDialog.Builder(this)
+                        .setTitle("Clear scan history")
+                        .setMessage("Are you sure you want to clear your scan history?")
+                        .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int which) {
+                                // continue with delete
+                                SQLiteHandler db = new SQLiteHandler(getApplicationContext());
+                                db.clearHistory();
+                                pendingList.clear();
+                                noHistory.setVisibility(View.VISIBLE);
+                                mAdapter.notifyDataSetChanged();
+                            }
+                        })
+                        .setNegativeButton(android.R.string.no, new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int which) {
+                                // do nothing
+                            }
+                        })
+                        .setIcon(android.R.drawable.ic_dialog_alert)
+                        .show();
             }
         }
 
