@@ -13,10 +13,16 @@ Medicine is rigorously tested for safety and effectiveness before becoming avail
 
 <a href="https://play.google.com/apps/testing/com.knightriders.drugwatch" rel="PlayStore Link"><img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/google-play-badge.png" width="20%" ></a>
 
+## Project Deliverables
+
+[Presentation Slides] (Project Deliverables/Presentation Slides.pdf) <br/>
+[Project Report] (Project Deliverables/Project Report.pdf)
+
 ## Architecture Flow Diagram
 <img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/architecture-flow.png">
 
-## Screenshots
+## Screenshots 
+[More Screenshots] (Project Deliverables/Screenshots/README.md)
 
 <img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss2.png" width="28%" align="left" />
 <img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss3.png" width="28%" align="left" />
