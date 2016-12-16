@@ -45,7 +45,10 @@
             android:name=".HistoryActivity"
             android:label="Scan History"
             android:screenOrientation="portrait" />
-        <activity android:name=".BarcodeActivity"></activity>
+        <activity android:name=".BarcodeActivity" />
+        <activity
+            android:name=".AboutActivity"
+            android:label="About Us" />
     </application>
 
 </manifest>

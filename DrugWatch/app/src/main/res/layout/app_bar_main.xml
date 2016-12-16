@@ -24,7 +24,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="end|center"
-            android:layout_marginBottom="40dp"
+            android:layout_marginBottom="70dp"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginTop="16dp"
@@ -62,6 +62,16 @@
                 fab:fab_icon="@drawable/ic_share"
                 fab:fab_size="mini"
                 fab:fab_title="Share App" />
+
+            <net.i2p.android.ext.floatingactionbutton.FloatingActionButton
+                android:id="@+id/aboutUs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fab:fab_colorNormal="@color/colorPrimary"
+                fab:fab_colorPressed="@color/colorPrimaryDark"
+                fab:fab_icon="@drawable/ic_about"
+                fab:fab_size="mini"
+                fab:fab_title="About Us" />
 
         </net.i2p.android.ext.floatingactionbutton.FloatingActionsMenu>
 

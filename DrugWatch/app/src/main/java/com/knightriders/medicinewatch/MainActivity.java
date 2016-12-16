@@ -139,6 +139,15 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
+        FloatingActionButton fabAbout = (FloatingActionButton) findViewById(R.id.aboutUs);
+        fabAbout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                menu.collapse();
+                startActivity(new Intent(MainActivity.this, AboutActivity.class));
+            }
+        });
+
         TextView selectCamera = (TextView) findViewById(R.id.selectCamera);
         selectCamera.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -264,8 +273,8 @@ public class MainActivity extends AppCompatActivity
                     Toast.makeText(this, "Cancelled", Toast.LENGTH_LONG).show();
                 } else {
                     Log.d("MainActivity", "Scanned");
-                    //Toast.makeText(this, "Scanned: " + result.getContents(), Toast.LENGTH_LONG).show();
-                    actualNumber = result.getContents();
+                    Toast.makeText(this, "Sorry for inconvenience! Barcode Scanning Coming Soon", Toast.LENGTH_LONG).show();
+                    /*actualNumber = result.getContents();
                     StringBuilder sb = new StringBuilder(actualNumber);
                     sb.deleteCharAt(0);
                     sb.deleteCharAt(sb.length()-1);
@@ -281,7 +290,7 @@ public class MainActivity extends AppCompatActivity
                         formatFour = actualNumber;
                         formatFour = actualNumber.substring(0, 4) + "-" + actualNumber.substring(5, 8) + "-" + actualNumber.substring(9);
                     }
-                    new GetFDAData().execute();
+                    new GetFDAData().execute();*/
                 }
             } else {
                 // This is important, otherwise the result will not be passed to the fragment
