@@ -37,6 +37,10 @@ Medicine is rigorously tested for safety and effectiveness before becoming avail
 - As a **_doctor_**, I want to scan a drug bottle, so that I can know whether to prescribe it or not.
 - As a **_pharmacist_**, I want to scan a drug bottle, so that I can know whether to sell that drug or not.
 
+## Future Enhancement
+
+Pharmacy name can also be extracted from scanned label and contact information of the nearby pharmacy can be shown to user for getting further information on recalled drug or an alternative to that drug.
+
 ## Integrated Developer Tools
 
 <img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/analytics.jpeg" width="28%" align="left" />
