@@ -1,9 +1,9 @@
 # DrugWatch
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/SJSU272Lab/Fall16-Team11/blob/master/LICENSE.md)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/SJSU272Lab/DrugWatch/blob/master/LICENSE.md)
 [![platform](https://img.shields.io/badge/platform-Android-orange.svg)]()
-[![GitHub issues](https://img.shields.io/badge/issues-1%20open-green.svg)](https://github.com/Nrupesh29/CMPE-202-Team-Project/issues?q=is%3Aopen+is%3Aissue) 
-[![GitHub closed issues](https://img.shields.io/badge/issues-4%20closed-red.svg)](https://github.com/Nrupesh29/CMPE-202-Team-Project/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues](https://img.shields.io/badge/issues-1%20open-green.svg)](https://github.com/SJSU272Lab/DrugWatch/issues?q=is%3Aopen+is%3Aissue) 
+[![GitHub closed issues](https://img.shields.io/badge/issues-4%20closed-red.svg)](https://github.com/SJSU272Lab/DrugWatch/issues?q=is%3Aissue+is%3Aclosed)
 
 <img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/logo.png" width="28%" align="left">
 
