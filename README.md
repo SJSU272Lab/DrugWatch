@@ -41,10 +41,9 @@
 
 ## Screenshots 
 [More Screenshots] (Project Deliverables/Screenshots/README.md)
-
-<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss2.png" width="28%" align="left" />
-<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss3.png" width="28%" align="left" />
-<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss4.png" width="28%" />
+<p align="center"><img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss2.png" width="28%" />
+<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss3.png" width="28%" />
+<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss4.png" width="28%" /></p>
 
 ## User Personas
 <p align="center"><img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/UserPersona.png" /></p>
