@@ -1,4 +1,4 @@
-<p align="center"><img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/drugWatch-logo.png" width="40%" /></p>
+<p align="center"><img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/drugWatch-logo.png" width="40%" /></p>
 
 <p align="center">
 <a href="https://github.com/SJSU272Lab/DrugWatch/blob/master/LICENSE.md" rel="Licence"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" /></a>
@@ -16,7 +16,7 @@
 
 ## Beta Testing
 
-<a href="https://play.google.com/apps/testing/com.knightriders.drugwatch" rel="PlayStore Link"><img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/google-play-badge.png" width="20%" ></a>
+<a href="https://play.google.com/apps/testing/com.knightriders.drugwatch" rel="PlayStore Link"><img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/google-play-badge.png" width="20%" ></a>
 
 ## Table of content
 
@@ -37,19 +37,19 @@
 [Project Report] (Project Deliverables/Project Report.pdf)
 
 ## Architecture Flow Diagram
-<p align="center"><img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/architecture-flow.png" /></p>
+<p align="center"><img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/architecture-flow.png" /></p>
 
 ## Screenshots 
 [More Screenshots] (Project Deliverables/Screenshots/README.md)
-<p align="center"><img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss2.png" width="28%" />
-<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss3.png" width="28%" />
-<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/ss4.png" width="28%" /></p>
+<p align="center"><img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/ss2.png" width="28%" />
+<img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/ss3.png" width="28%" />
+<img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/ss4.png" width="28%" /></p>
 
 ## User Personas
-<p align="center"><img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/UserPersona.png" /></p>
+<p align="center"><img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/UserPersona.png" /></p>
 
 ## User Stories
-<!--<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/UserStories.png" width="80%">-->
+<!--<img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/UserStories.png" width="80%">-->
 - As a **_patient_**, I want to scan a drug bottle, so that I can know whether to consume it or not.
 - As a **_doctor_**, I want to scan a drug bottle, so that I can know whether to prescribe it or not.
 - As a **_pharmacist_**, I want to scan a drug bottle, so that I can know whether to sell that drug or not.
@@ -69,9 +69,9 @@ Pharmacy name can also be extracted from scanned label and contact information o
 
 ## Integrated Developer Tools
 
-<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/analytics.jpeg" width="28%" align="left"/>
-<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/admob.jpeg" width="28%" align="left"/>
-<img src="http://nrupeshpatel.com/CMPE272/GitHub/Images/remote-config.jpeg" width="28%" />
+<img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/analytics.jpeg" width="28%" align="left"/>
+<img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/admob.jpeg" width="28%" align="left"/>
+<img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/remote-config.jpeg" width="28%" />
 
 ## License
 
