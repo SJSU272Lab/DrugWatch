@@ -1,14 +1,6 @@
 apply plugin: 'com.android.application'
 
 android {
-    signingConfigs {
-        AndroDevz {
-            keyAlias 'AndroDevz'
-            keyPassword 'androdevz'
-            storeFile file('/Users/NRUPESH/Desktop/androdevz.jks')
-            storePassword 'androdevz'
-        }
-    }
     compileSdkVersion 25
     buildToolsVersion "24.0.2"
     defaultConfig {
