@@ -14,9 +14,9 @@
 </tr>
 </table>
 
-## Beta Testing
+## PlayStore Link
 
-<a href="https://play.google.com/apps/testing/com.knightriders.drugwatch" rel="PlayStore Link"><img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/google-play-badge.png" width="20%" ></a>
+<a href="https://play.google.com/store/apps/details?id=com.knightriders.drugwatch" rel="PlayStore Link"><img src="http://nrupeshpatel.com/Files/CMPE272/GitHub/Images/google-play-badge.png" width="20%" ></a>
 
 ## Table of content
 
